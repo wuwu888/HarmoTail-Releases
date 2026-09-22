@@ -1,0 +1,5 @@
+*.hap
+*.app
+*.zip
+.DS_Store
+release/
