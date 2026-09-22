@@ -39,7 +39,15 @@ SHA256：
 
 ## 安装
 
-请参阅 [INSTALL.md](INSTALL.md)。
+普通用户推荐使用 **小白调试助手** 安装 HarmoTail。
+
+小白调试助手最新版：
+
+https://github.com/likuai2010/auto-installer/releases/latest
+
+完整图文步骤请参阅：
+
+[HarmoTail 安装说明](INSTALL.md)
 
 ## 问题反馈
 
