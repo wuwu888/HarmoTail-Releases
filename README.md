@@ -27,13 +27,6 @@ HarmoTail 是面向 HarmonyOS 的原生 Tailscale 客户端。
 
 请前往本仓库的 **Releases** 页面下载最新的 `.hap` 安装包。
 
-当前正式安装包：
-
-`HarmoTail-v0.16.1-signed.hap`
-
-SHA256：
-
-`4c10333a63fe3e1cdcf5367a6d26964ea8d870106c427a3eab7bde4b178ade2c`
 
 ## 安装
 
