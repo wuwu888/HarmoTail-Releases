@@ -2,7 +2,6 @@
 
 HarmoTail 是面向 HarmonyOS 的原生 Tailscale 客户端。
 
-当前公开版本：**v0.16.3**
 
 ## 主要功能
 
@@ -21,7 +20,6 @@ HarmoTail 是面向 HarmonyOS 的原生 Tailscale 客户端。
 
 ## 当前核心版本
 
-- HarmoTail：v0.16.3
 - Tailscale Core：v1.102.4
 - OpenHarmony Go Runtime：Go 1.26.6
 
